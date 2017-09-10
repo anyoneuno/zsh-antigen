@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 zsh-antigen
 ===========
 
@@ -8,3 +9,6 @@ git clone https://github.com/mgdm/zsh-antigen.git ~/.zsh-antigen
 cd
 ln -s .zsh-antigen/zshrc .zshrc
 ```
+=======
+# zsh-antigen
+>>>>>>> refs/remotes/origin/master
